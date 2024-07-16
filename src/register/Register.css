@@ -1,0 +1,49 @@
+
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  color: rgb(99, 51, 143);
+}
+
+.register-conteiner {
+  margin-top: 50px;
+  display: flex;
+  font-family: sans-serif;
+  justify-content: center;
+
+  }
+
+.register-border {
+  background-color: rgb(255, 255, 255);
+  border: 4px solid rgb(25, 24, 53);
+  border-radius: 4px;
+  padding: 10px 30px 15px 30px;
+}
+
+  
+.buttom-send-register {
+  margin-top: 15px;
+  margin-left: 32%;
+  padding: 10px 20px;
+  background-color: rgb(25, 24, 53);
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.register-label {
+  margin-left: 12%;
+  margin-bottom: 8px;
+  display: block;
+  font-weight: bold;
+  }
+
+.register-input {
+  margin-left: 12%;
+  margin-bottom: 8px;
+  display: block;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
